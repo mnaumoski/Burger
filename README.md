@@ -1,8 +1,6 @@
-# Burger
+#Burger
 
-#Homework - Week 14: Node Express Handlebars
-
-### Overview
+##Homework - Week 14: Node Express Handlebars
 
 This is a  restaurant app that lets users input the names of burgers they'd like to eat.
 Made with MySQL, Node, Express, Handlebars.
